@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GridLayoutDemo/Resources/layout/Main.axml">
+    <Files>
+      <File FileName="GridLayoutDemo/Resources/layout/Main.axml" Line="39" Column="41" />
+      <File FileName="GridLayoutDemo/Activity1.cs" Line="31" Column="6" />
+      <File FileName="GridLayoutDemo/Resources/values/Strings.xml" Line="3" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GridLayoutDemo AndroidDeviceId-Debug="emulator-5554" />
+</Properties>

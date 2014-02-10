@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloTabsICS/Activity1.cs">
+    <Files>
+      <File FileName="HelloTabsICS/Activity1.cs" Line="24" Column="25" />
+      <File FileName="HelloTabsICS/Resources/values/Strings.xml" Line="2" Column="12" />
+      <File FileName="HelloTabsICS/Resources/layout/Main.axml" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

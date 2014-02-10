@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShareActionProviderDemo/Activity1.cs">
+    <Files>
+      <File FileName="ShareActionProviderDemo/Resources/menu/ActionBarMenu.xml" Line="8" Column="3" />
+      <File FileName="ShareActionProviderDemo/Activity1.cs" Line="16" Column="3" />
+      <File FileName="ShareActionProviderDemo/Resources/layout/Main.axml" Line="8" Column="5" />
+      <File FileName="ShareActionProviderDemo/Resources/values/Strings.xml" Line="4" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ShareActionProviderDemo AndroidDeviceId-Debug="emulator-5554" />
+</Properties>

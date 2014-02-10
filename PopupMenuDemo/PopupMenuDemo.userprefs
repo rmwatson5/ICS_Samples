@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PopupMenuDemo/Activity1.cs">
+    <Files>
+      <File FileName="PopupMenuDemo/Activity1.cs" Line="17" Column="21" />
+      <File FileName="PopupMenuDemo/Resources/layout/Main.axml" Line="14" Column="1" />
+      <File FileName="PopupMenuDemo/Resources/menu/popup_menu.xml" Line="8" Column="32" />
+      <File FileName="PopupMenuDemo/Resources/values/Strings.xml" Line="3" Column="28" />
+      <File FileName="PopupMenuDemo/Resources/Resource.designer.cs" Line="13" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PopupMenuDemo AndroidDeviceId-Debug="emulator-5554" />
+</Properties>

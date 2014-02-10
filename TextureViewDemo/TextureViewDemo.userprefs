@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextureViewDemo/TextureViewActivity.cs">
+    <Files>
+      <File FileName="TextureViewDemo/TextureViewActivity.cs" Line="45" Column="106" />
+      <File FileName="TextureViewDemo/Resources/values/Strings.xml" Line="5" Column="1" />
+      <File FileName="TextureViewDemo/Properties/AndroidManifest.xml" Line="3" Column="84" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TextureViewDemo AndroidDeviceId-Debug="014696590500901D" />
+</Properties>

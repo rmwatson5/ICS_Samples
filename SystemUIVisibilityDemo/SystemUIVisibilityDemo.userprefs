@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SystemUIVisibilityDemo/Activity1.cs">
+    <Files>
+      <File FileName="SystemUIVisibilityDemo/Activity1.cs" Line="20" Column="21" />
+      <File FileName="SystemUIVisibilityDemo/Resources/layout/Main.axml" Line="28" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SystemUIVisibilityDemo AndroidDeviceId-Debug="014696590500901D" />
+</Properties>

@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContactsProviderDemo/Activity1.cs">
+    <Files>
+      <File FileName="ContactsProviderDemo/Resources/layout/Main.axml" Line="12" Column="21" />
+      <File FileName="ContactsProviderDemo/Activity1.cs" Line="56" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ContactsProviderDemo AndroidDeviceId-Debug="emulator-5554" />
+</Properties>

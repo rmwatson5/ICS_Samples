@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwitchDemo/Resources/values/Strings.xml">
+    <Files>
+      <File FileName="SwitchDemo/Resources/values/Strings.xml" Line="2" Column="12" />
+      <File FileName="SwitchDemo/Resources/layout/Main.axml" Line="14" Column="16" />
+      <File FileName="SwitchDemo/Activity1.cs" Line="33" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SwitchDemo AndroidDeviceId-Debug="emulator-5554" />
+</Properties>

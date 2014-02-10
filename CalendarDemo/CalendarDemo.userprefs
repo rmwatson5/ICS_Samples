@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalendarDemo/Resources/layout/CalendarList.axml">
+    <Files>
+      <File FileName="CalendarDemo/Resources/layout/EventList.axml" Line="11" Column="1" />
+      <File FileName="CalendarDemo/Resources/layout/EventListItem.axml" Line="17" Column="1" />
+      <File FileName="CalendarDemo/CalendarListActivity.cs" Line="54" Column="15" />
+      <File FileName="CalendarDemo/Resources/layout/CalendarList.axml" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CalendarDemo AndroidDeviceId-Debug="emulator-5554" />
+</Properties>
